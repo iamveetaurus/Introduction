@@ -1,16 +1,19 @@
-# Introduction
+## DAILY STANDUP
+Nama: Vivi Aprillia Wurihandayani | Tanggal: 30 Oktober 2025 | Team:
 
-Halo rekan-rekan semuanya.
-Perkenalkan nama saya Vivi Aprillia Wurihandayani, biasa dipanggil dengan nama Vivi.
-Saya adalah seorang mahasiswi program studi D3 Teknik Informatika di Universitas Sebelas Maret yang saat ini tengah menjalani kegiatan magang di PT Hummalabs Teknologi Indonesia.
+# ✅ What I shipped yesterday
+• Complete the "form" page.
+• Fix errors in the database related to filling out the "form".
 
-## Minat saya
-Saya memiliki ketertarikan besar terhadap dunia teknologi, startup, dan inovasi digital.
-Hal ini berawal dari rasa kagum saya terhadap cara perusahaan rintisan mampu menghadirkan solusi kreatif untuk masalah sehari-hari dengan pendekatan yang gesit dan berbasis teknologi.
-Saya percaya bahwa teknologi bukan hanya tentang perangkat lunak atau perangkat keras, tetapi juga tentang bagaimana kita bisa menciptakan dampak nyata bagi masyarakat melalui inovasi.
+# 🎯 What I'm working on today
+• Fix errors in the "upload document" section.
+• Customize several "form" fields with the latest UI and database.
 
-## Penguasaan Tools
-Beberapa tools yang saya kuasai di antaranya:
-- Canva
-- Figma
-- Jira
+# 🚧 Blockers / Need help with
+• There are no problems. It's just that fixing the error takes a bit of time.
+
+#💡 TIL (Today I Learned) - optional
+How to manage time well and how to be responsible for each other's work.
+
+________________________________________________________________________________
+⏰ Submit setiap hari sebelum jam 5 sore + Infokan di grup
